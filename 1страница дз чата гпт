@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Damian Rud</h1>
+    <p>Всем привет это моя первая страница</p>
+    <h2>Мои хоби</h2>
+    <ul>
+      <li>Фотография</li>
+      <li>Кулинария</li>
+      <li>Путешествия</li>
+      <li>Коллекционирование</li>
+    </ul>
+    <img src="HTML.png" alt="Моё тестовое изображение" />
+
+    <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
+    <hr />
+    <h2>Навыки</h2>
+    <ul>
+      <li>Новичок</li>
+    </ul>
+  </body>
+</html>
