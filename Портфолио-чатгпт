@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Моё портфолио</h1>
+    <img src="HTML.png" alt="Моё тестовое изображение" />
+    <h2>Обо мне</h2>
+    <p>Мне нравится программирование, и я учусь на 1 курсе TTHK.</p>
+    <hr />
+    <h2>Мои проекты</h2>
+    <ul>
+      <li>Калькулятор на Python</li>
+      <li>Консольная игра на C#</li>
+      <li>Моя первая HTML-страница</li>
+    </ul>
+
+    <table border="1">
+      <tr>
+        <th>Навык</th>
+        <th>Уровень</th>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>Новичок</td>
+      </tr>
+    </table>
+
+    <h2>Контакты</h2>
+    <a href="mailto:damianrud257@gmail.com">Почта</a>
+    <a href="https://github.com/DamianRud/HTML.git">Github</a>
+
+    <p>© 2025 Damian Rud</p>
+  </body>
+</html>
