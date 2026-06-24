@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Резюме</h1>
+    <hr />
+    <h2>Личная информация</h2>
+
+    <img src="Gemini.png" width="400px" />
+    <ul>
+      <li>Возраст 16</li>
+      <li>Таллинн</li>
+      <li>Дамиан</li>
+    </ul>
+    <h2>Обо мне</h2>
+    <p>Обычный парень-Програмист</p>
+    <h2>Образование</h2>
+    <table border="1">
+      <tr>
+        <th>Учебное заведение</th>
+        <th>Год</th>
+      </tr>
+      <tr>
+        <td>TTHK</td>
+        <td>2025-2026</td>
+      </tr>
+    </table>
+    <h2>Опыт</h2>
+    <p>Список проектов:</p>
+    <ul>
+      <li>Калькулятор на Python</li>
+      <li>Игра на C#</li>
+      <li>HTML-портфолио</li>
+    </ul>
+
+    <h2>Связаться со мной</h2>
+    <form>
+      <label>Имя</label>
+      <input type="text" placeholder="Имя" /><br /><br />
+
+      <label>Email</label>
+      <input type="email" placeholder="Email" /><br /><br />
+
+      <label>Сообщение</label>
+      <textarea></textarea><br /><br />
+
+      <button type="submit">Отправить</button>
+    </form>
+  </body>
+</html>
